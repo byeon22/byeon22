@@ -14,8 +14,8 @@
   <h3>💬 Contact me</h3>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat&logo=Velog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>(minjeongs0202@gmail.com)
+  <a href="https://velog.io/@byeon22"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat&logo=Velog&logoColor=white" />
+  <a href="minjeongs0202@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </div>
 <!--
 **byeon22/byeon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
