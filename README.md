@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - Byeon22's playground ✨
+### - Minjeong's playground ✨
 
 <div align=center>
   <h3>📚 Tech Stack</h3>
