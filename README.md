@@ -1,5 +1,22 @@
 ### Hi there 👋
+### - Byeon22's playground ✨
 
+<div align=center>
+  <h3>📚 Tech Stack</h3>
+  <p>🌱 Now I'm Studying 🌱</p>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+</div>
+<div align=center>
+  <h3>💬 Contact me</h3>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat&logo=Velog&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+</div>
 <!--
 **byeon22/byeon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
